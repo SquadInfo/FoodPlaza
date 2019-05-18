@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Pass Data Through Intent</string>
+    <string name="sample_dummy">Dummy Data</string>
+</resources>
