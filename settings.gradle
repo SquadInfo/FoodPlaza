@@ -1,1 +1,1 @@
-include ':activity_lifecycle_demo', ':pass_data_through_intent', ':foodplaza', ':recyclerviewdemo'
+include ':foodplaza'
